@@ -1,12 +1,13 @@
 
 import './App.css'
+import Root from './pages/Root'
 
 function App() {
   
 
   return (
     <>
-      <h1>hello Zillur</h1>
+      <Root/>
     </>
   )
 }
